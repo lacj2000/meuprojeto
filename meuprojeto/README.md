@@ -1,12 +1,12 @@
 # 2ª Atividade 
 
 ## Descrição
-Instituição: IFPI
-Curso: ADS 3
-Periodo: 2020.2 (EAD 2020.2)
-Disciplina: Programação P/ Internet
-Aluno: Luiz Araujo
+Instituição: IFPI <p>
+Curso: ADS 3 <p>
+Periodo: 2020.2 (EAD 2020.2)<p>
+Disciplina: Programação P/ Internet<p>
+Aluno: Luiz Araujo<p>
 
-requeriments:
-  python===3.6.9
-  django===3.1
+### requeriments:<p>
+  python===3.6.9<p>
+  django===3.1<p>
