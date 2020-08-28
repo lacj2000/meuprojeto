@@ -4,5 +4,5 @@ from . import views
 
 urlpatterns = [
     path('bemvindo/',views.welcome),
-    path('aluno/',views.student),
+    path('enquete/<int:enquete_id>',views.exibir_enquete),
 ]
